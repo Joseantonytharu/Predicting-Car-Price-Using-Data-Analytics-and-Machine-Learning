@@ -17,7 +17,7 @@ This project explores the relationship between vehicle characteristics and marke
 
 ## 📂 Dataset
 
-The dataset used is the [UCI Automobile Dataset](https://archive.ics.uci.edu/ml/datasets/automobile), loaded from a local CSV file (`auto.csv`).
+loaded from a local CSV file (`auto.csv`).
 
 It contains **26 features** per vehicle, including:
 
